@@ -40,8 +40,6 @@ SOURCE_PREFIX = "\u6765\u6e90\uff1a"
 FOOTER_PREFIX = "\u624b\u673a\u684c\u9762\u5165\u53e3\u6253\u5f00\u5373\u53ef\u67e5\u770b\u3002\u6bcf\u5929\u5317\u4eac\u65f6\u95f4 10:00 \u4e91\u7aef\u81ea\u52a8\u66f4\u65b0\uff1b\u82e5\u5f53\u5929\u6682\u65e0\u65b0\u95fb\uff0c\u4e5f\u4f1a\u4ece\u8fd1 12 \u4e2a\u6708\u65b0\u95fb\u6c60\u8f6e\u6362\u4eca\u65e5\u7b80\u62a5\u3002\u6700\u8fd1\u68c0\u67e5\uff1a"
 AI_CATEGORY = "AI/\u81ea\u52a8\u5316"
 PLAY_CATEGORY = "\u5e7f\u544a\u73a9\u6cd5"
-DEFAULT_EN_SUMMARY = "This update is tracked as a competitor signal for Kwai CPG operations across social commerce, creators, AI creative, shopping ads, or automated media products."
-DEFAULT_ZH_SUMMARY = "\u8fd9\u662f Kwai CPG \u8fd0\u8425\u9700\u5173\u6ce8\u7684\u7ade\u5a92\u4fe1\u53f7\uff0c\u53ef\u7528\u4e8e\u8ddf\u8e2a\u793e\u4ea4\u7535\u5546\u3001\u521b\u4f5c\u8005\u5408\u4f5c\u3001AI \u521b\u610f\u3001\u8d2d\u7269\u5e7f\u544a\u6216\u81ea\u52a8\u5316\u6295\u653e\u4ea7\u54c1\u7684\u53d8\u5316\u3002"
 
 TITLE_ZH = {
     "Meta Launches New Era Of Shopping Experiences Powered By AI , Reels & Creators": "Meta \u63a8\u51fa\u7531 AI\u3001Reels \u548c\u521b\u4f5c\u8005\u9a71\u52a8\u7684\u8d2d\u7269\u4f53\u9a8c",
@@ -65,15 +63,45 @@ TITLE_ZH = {
 }
 
 SUMMARY_ZH = {
-    "Branded Buzz + Search Hubs": "TikTok \u628a\u8fbe\u4eba\u6279\u91cf\u79cd\u8349\u548c\u641c\u7d22\u9876\u90e8\u54c1\u724c\u9635\u5730\u6253\u901a\uff0c\u7ade\u5a92\u91cd\u70b9\u5728\u4e8e\u5c06\u5185\u5bb9\u5174\u8da3\u627f\u63a5\u5230\u4e3b\u52a8\u641c\u7d22\u548c\u8f6c\u5316\u8def\u5f84\u3002",
-    "Symphony + Reference to Video": "TikTok \u63d0\u5347 Symphony AI \u89c6\u9891\u751f\u6210\u7684\u53ef\u63a7\u6027\uff0c\u5bf9 SKU \u591a\u3001\u7d20\u6750\u66f4\u65b0\u5feb\u7684 CPG \u54c1\u7c7b\u5177\u6709\u7ade\u5a92\u53c2\u8003\u4ef7\u503c\u3002",
-    "Smart+ / Pulse View+ / Collage Carousel": "TikTok \u5f3a\u5316 Smart+\u3001Pulse View+ \u548c\u5546\u54c1\u5c55\u793a\u5f62\u6001\uff0c\u663e\u793a\u5176\u5728\u81ea\u52a8\u5316\u6295\u653e\u4e0e\u5185\u5bb9\u7535\u5546\u627f\u63a5\u4e0a\u6301\u7eed\u52a0\u7801\u3002",
+    "Meta Launches New Era Of Shopping Experiences Powered By AI , Reels & Creators": "Meta \u63a8\u51fa\u7ed3\u5408 AI\u3001Reels \u548c\u521b\u4f5c\u8005\u7684\u8d2d\u7269\u4f53\u9a8c\uff0c\u805a\u7126\u5546\u54c1\u53d1\u73b0\u548c\u793e\u4ea4\u7535\u5546\u8f6c\u5316\u3002",
+    "Thai beauty platform Konvy secures US$15 million from Cool Japan Fund": "\u6cf0\u56fd\u7f8e\u5986\u5e73\u53f0 Konvy \u83b7\u5f97 Cool Japan Fund 1500 \u4e07\u7f8e\u5143\u6295\u8d44\uff0c\u7528\u4e8e\u6269\u5c55\u7f8e\u5986\u96f6\u552e\u4e1a\u52a1\u3002",
+    "TikTok Shop honors standout creators at 2026 Creator Awards": "TikTok Shop \u5728 2026 Creator Awards \u4e2d\u8868\u5f70\u8868\u73b0\u7a81\u51fa\u7684\u521b\u4f5c\u8005\uff0c\u7ee7\u7eed\u5f3a\u5316\u521b\u4f5c\u8005\u7535\u5546\u751f\u6001\u3002",
+    "Zalando hires TikTok veteran to get brands to pay for marketing": "Zalando \u8058\u8bf7 TikTok \u80cc\u666f\u7684\u9ad8\u7ba1\uff0c\u63a8\u52a8\u54c1\u724c\u5728\u5176\u5e73\u53f0\u4e0a\u8d2d\u4e70\u8425\u9500\u670d\u52a1\u3002",
+    "Branded Buzz + Search Hubs": "TikTok \u628a\u8fbe\u4eba\u6279\u91cf\u79cd\u8349\u548c\u641c\u7d22\u9876\u90e8\u54c1\u724c\u9635\u5730\u6253\u901a\uff0c\u5c06\u5185\u5bb9\u5174\u8da3\u627f\u63a5\u5230\u4e3b\u52a8\u641c\u7d22\u548c\u8f6c\u5316\u8def\u5f84\u3002",
+    "Symphony + Reference to Video": "TikTok \u63d0\u5347 Symphony AI \u89c6\u9891\u751f\u6210\u7684\u53ef\u63a7\u6027\uff0c\u5141\u8bb8\u5e7f\u544a\u4e3b\u6307\u5b9a\u4ea7\u54c1\u6216\u56fe\u50cf\u5728\u89c6\u9891\u4e2d\u7684\u51fa\u73b0\u65b9\u5f0f\u3002",
+    "Tag , Youre Liable : What Instagram New Affiliate Reels Mean for Retailers | Ballard Spahr LLP": "\u6587\u7ae0\u89e3\u8bfb Instagram \u65b0\u7684\u8054\u76df Reels \u5f62\u6001\uff0c\u5e76\u8ba8\u8bba\u96f6\u552e\u5546\u53ef\u80fd\u9762\u4e34\u7684\u5408\u89c4\u548c\u8d23\u4efb\u95ee\u9898\u3002",
+    "Meta trial raises stakes as possible exit from New Mexico sparks concerns for local businesses": "Meta \u76f8\u5173\u8bc9\u8bbc\u53ef\u80fd\u5f71\u54cd\u5176\u5728\u65b0\u58a8\u897f\u54e5\u5dde\u7684\u670d\u52a1\uff0c\u5f15\u53d1\u5f53\u5730\u5546\u5bb6\u5bf9\u5e73\u53f0\u53ef\u7528\u6027\u7684\u62c5\u5fe7\u3002",
+    "Walmart Has 23 . 6 % of U . S . Grocery Sales - But Costco Owns the AI Answer - 5W Grocery Retail AI Visibility Index 20": "5W \u7684\u96f6\u552e AI \u53ef\u89c1\u5ea6\u6307\u6570\u663e\u793a\uff0cWalmart \u5360\u7f8e\u56fd\u98df\u54c1\u96f6\u552e\u4efd\u989d 23.6%\uff0c\u800c Costco \u5728 AI \u641c\u7d22\u7b54\u6848\u4e2d\u66f4\u5177\u53ef\u89c1\u5ea6\u3002",
+    "Nykaa sued over alleged copyright misuse of songs on Instagram reels": "\u7f8e\u5986\u96f6\u552e\u5546 Nykaa \u56e0 Instagram Reels \u4e2d\u7684\u6b4c\u66f2\u7248\u6743\u4f7f\u7528\u95ee\u9898\u88ab\u8d77\u8bc9\u3002",
+    "TikTok launches international ad platform campaign": "TikTok \u53d1\u8d77\u56fd\u9645\u5e7f\u544a\u5e73\u53f0\u8425\u9500\u6218\u5f79\uff0c\u5bf9\u5916\u5ba3\u4f20\u5176\u5e7f\u544a\u4ea7\u54c1\u548c\u8425\u9500\u80fd\u529b\u3002",
+    "TikTok Shop on Track to Seize 10 % of Retail Sales": "\u62a5\u9053\u79f0 TikTok Shop \u7684\u589e\u957f\u52bf\u5934\u53ef\u80fd\u4f7f\u5176\u5360\u636e\u96f6\u552e\u9500\u552e\u7684 10% \u4efd\u989d\u3002",
+    "FAQ on brand safety : How AI content and creator marketing are reshaping risk in 2026": "\u6587\u7ae0\u8ba8\u8bba AI \u5185\u5bb9\u548c\u521b\u4f5c\u8005\u8425\u9500\u5728 2026 \u5e74\u5bf9\u54c1\u724c\u5b89\u5168\u98ce\u9669\u7684\u5f71\u54cd\u3002",
+    "Beauty Giants Race to Own the AI Shopping Moment": "\u7f8e\u5986\u4f01\u4e1a\u6b63\u5728\u52a0\u5feb\u5e03\u5c40 AI \u8d2d\u7269\u4f53\u9a8c\uff0c\u4ee5\u5360\u636e\u6d88\u8d39\u8005\u53d1\u73b0\u548c\u9009\u8d2d\u573a\u666f\u3002",
+    "How to use social media for retail brands : 5 key strategies": "\u6587\u7ae0\u603b\u7ed3\u96f6\u552e\u54c1\u724c\u4f7f\u7528\u793e\u4ea4\u5a92\u4f53\u7684 5 \u4e2a\u5173\u952e\u7b56\u7565\u3002",
+    "Kewei Zhu : The creative systems architect behind TikTok Shop biggest U . S . selling moments": "\u6587\u7ae0\u4ecb\u7ecd Kewei Zhu \u5728 TikTok Shop \u7f8e\u56fd\u5927\u578b\u9500\u552e\u8282\u70b9\u4e2d\u7684\u521b\u610f\u7cfb\u7edf\u8bbe\u8ba1\u5de5\u4f5c\u3002",
+    "Smart+ / Pulse View+ / Collage Carousel": "TikTok \u6269\u5c55 Smart+\u3001Pulse View+ \u548c Collage Carousel \u7b49\u5e7f\u544a\u4ea7\u54c1\uff0c\u5f3a\u5316\u81ea\u52a8\u5316\u6295\u653e\u548c\u5546\u54c1\u5c55\u793a\u80fd\u529b\u3002",
+    "Best strategies for FMCG to sell on TikTok Shop": "\u6587\u7ae0\u68b3\u7406 FMCG \u54c1\u724c\u5728 TikTok Shop \u4e0a\u9500\u552e\u7684\u65b9\u6cd5\uff0c\u5305\u62ec\u5e97\u94fa\u8fd0\u8425\u3001\u5185\u5bb9\u548c\u521b\u4f5c\u8005\u5408\u4f5c\u3002",
 }
 
 SUMMARY_EN = {
     "Branded Buzz + Search Hubs": "TikTok connects scaled creator buzz with branded search hubs, turning content interest into search demand and conversion paths.",
-    "Symphony + Reference to Video": "TikTok is making Symphony AI video generation more controllable, a useful competitor signal for CPG categories with many SKUs and fast creative cycles.",
-    "Smart+ / Pulse View+ / Collage Carousel": "TikTok is expanding Smart+, Pulse View+, and commerce-forward formats, showing continued investment in automation and shoppable content.",
+    "Symphony + Reference to Video": "TikTok is making Symphony AI video generation more controllable, including ways to specify how products or reference images appear in a video.",
+    "Smart+ / Pulse View+ / Collage Carousel": "TikTok is expanding Smart+, Pulse View+, and Collage Carousel ad products, strengthening automated media buying and product display formats.",
+    "Meta Launches New Era Of Shopping Experiences Powered By AI , Reels & Creators": "Meta introduced shopping experiences that combine AI, Reels, and creators to support product discovery and social commerce conversion.",
+    "Thai beauty platform Konvy secures US$15 million from Cool Japan Fund": "Thai beauty platform Konvy secured US$15 million from Cool Japan Fund to expand its beauty retail business.",
+    "TikTok Shop honors standout creators at 2026 Creator Awards": "TikTok Shop recognized standout creators at its 2026 Creator Awards, continuing to promote its creator commerce ecosystem.",
+    "Zalando hires TikTok veteran to get brands to pay for marketing": "Zalando hired a TikTok veteran to encourage brands to buy marketing services on its platform.",
+    "Tag , Youre Liable : What Instagram New Affiliate Reels Mean for Retailers | Ballard Spahr LLP": "The article explains Instagram's new affiliate Reels format and the potential compliance and liability issues for retailers.",
+    "Meta trial raises stakes as possible exit from New Mexico sparks concerns for local businesses": "A Meta-related legal case could affect service availability in New Mexico, raising concerns among local businesses.",
+    "Walmart Has 23 . 6 % of U . S . Grocery Sales - But Costco Owns the AI Answer - 5W Grocery Retail AI Visibility Index 20": "5W's retail AI visibility index says Walmart holds 23.6% of U.S. grocery sales, while Costco has stronger visibility in AI-generated answers.",
+    "Nykaa sued over alleged copyright misuse of songs on Instagram reels": "Beauty retailer Nykaa was sued over alleged copyright misuse of songs in Instagram Reels.",
+    "TikTok launches international ad platform campaign": "TikTok launched an international campaign to promote its advertising platform and marketing capabilities.",
+    "TikTok Shop on Track to Seize 10 % of Retail Sales": "The report says TikTok Shop's growth could put it on track to capture 10% of retail sales.",
+    "FAQ on brand safety : How AI content and creator marketing are reshaping risk in 2026": "The article discusses how AI content and creator marketing may reshape brand safety risks in 2026.",
+    "Beauty Giants Race to Own the AI Shopping Moment": "Beauty companies are accelerating AI shopping experiences to influence how consumers discover and choose products.",
+    "How to use social media for retail brands : 5 key strategies": "The article summarizes five key strategies for retail brands using social media.",
+    "Kewei Zhu : The creative systems architect behind TikTok Shop biggest U . S . selling moments": "The article profiles Kewei Zhu's creative systems work behind major U.S. selling moments on TikTok Shop.",
+    "Best strategies for FMCG to sell on TikTok Shop": "The article outlines ways for FMCG brands to sell on TikTok Shop, including store operations, content, and creator collaboration.",
 }
 
 
@@ -98,12 +126,12 @@ def zh_title_for(title, platform):
     if title in TITLE_ZH:
         return TITLE_ZH[title]
     if re.search(r"shop|shopping|commerce|retail", title, re.I):
-        return f"{platform} \u7535\u5546/\u96f6\u552e\u76f8\u5173\u7ade\u5a92\u52a8\u6001\uff1a{title[:72]}"
+        return f"{platform} \u7535\u5546/\u96f6\u552e\u52a8\u6001\uff1a{title[:72]}"
     if re.search(r"creator|reels|affiliate|influencer", title, re.I):
         return f"{platform} \u521b\u4f5c\u8005/\u5185\u5bb9\u5408\u4f5c\u52a8\u6001\uff1a{title[:72]}"
     if re.search(r"ai|automation|smart\+|advantage\+|symphony", title, re.I):
         return f"{platform} AI \u4e0e\u81ea\u52a8\u5316\u5e7f\u544a\u52a8\u6001\uff1a{title[:72]}"
-    return f"{platform} \u7ade\u5a92\u8425\u9500\u52a8\u6001\uff1a{title[:72]}"
+    return f"{platform} \u8425\u9500\u52a8\u6001\uff1a{title[:72]}"
 
 
 def zh_summary_for(item):
@@ -112,7 +140,8 @@ def zh_summary_for(item):
         return SUMMARY_ZH[title]
     platform = item.get("platform", "\u7ade\u5a92")
     category = item.get("category", "\u5e7f\u544a/\u8425\u9500")
-    return f"{platform} \u8fd9\u4e00\u52a8\u6001\u4e0e {category} \u76f8\u5173\uff0c\u53ef\u4f5c\u4e3a Kwai \u8ddf\u8e2a CPG \u7ade\u5a92\u4ea7\u54c1\u3001\u5185\u5bb9\u7535\u5546\u548c\u521b\u610f\u4f9b\u7ed9\u53d8\u5316\u7684\u4fe1\u53f7\u3002"
+    title_zh = item.get("titleZh") or item.get("titleEn") or item.get("title", "")
+    return f"\u62a5\u9053\u5173\u6ce8 {platform} \u4e0e {category} \u76f8\u5173\u7684\u52a8\u6001\uff1a{title_zh}\u3002"
 
 
 def has_cjk(value):
@@ -143,17 +172,22 @@ def en_summary_for(item):
         return summary
     platform = item.get("platform", "The competitor")
     category = en_category(item.get("category", ""))
-    return f"{platform} shows movement in {category}, making it a competitor signal for Kwai to monitor across CPG operations, social commerce, and creative supply."
+    title_en = item.get("titleEn") or item.get("title", "")
+    return f"The report covers {platform} activity related to {category}: {title_en}."
 
 
 def normalize_item(item):
     title_en = clean(item.get("titleEn") or item.get("title", ""))
     item["titleEn"] = title_en
     item["titleZh"] = clean(item.get("titleZh") or zh_title_for(title_en, item.get("platform", "\u7ade\u5a92")))
-    if not item.get("summaryEn") or has_cjk(item.get("summaryEn", "")):
+    summary_en = item.get("summaryEn", "")
+    if not summary_en or has_cjk(summary_en) or "Kwai" in summary_en or "CPG" in summary_en:
         item["summaryEn"] = en_summary_for(item)
     item["summaryEn"] = clean(item["summaryEn"])
-    item["summaryZh"] = clean(item.get("summaryZh") or zh_summary_for(item))
+    summary_zh = item.get("summaryZh", "")
+    if not summary_zh or "Kwai" in summary_zh or "CPG" in summary_zh or "\u7ade\u5a92\u4fe1\u53f7" in summary_zh or "\u53c2\u8003\u4ef7\u503c" in summary_zh or "\u7ade\u5a92\u91cd\u70b9" in summary_zh:
+        item["summaryZh"] = zh_summary_for(item)
+    item["summaryZh"] = clean(item["summaryZh"])
     item.pop("value", None)
     item.pop("summary", None)
     return item
