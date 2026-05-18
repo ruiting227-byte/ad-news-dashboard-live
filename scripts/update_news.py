@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import html
+import hashlib
 import json
 import re
 import sys
@@ -36,7 +37,7 @@ INITIAL_STATUS = "\u521d\u59cb\u7248"
 HIGH_TITLE = "\u9ad8\u4f18\u5148\u7ea7"
 NORMAL_TITLE = "\u8865\u5145\u89c2\u5bdf"
 SOURCE_PREFIX = "\u6765\u6e90\uff1a"
-FOOTER_PREFIX = "\u6bcf\u5929\u5317\u4eac\u65f6\u95f4 10:00 \u7531 GitHub Actions \u81ea\u52a8\u66f4\u65b0\u3002\u6700\u8fd1\u68c0\u67e5\uff1a"
+FOOTER_PREFIX = "\u624b\u673a\u684c\u9762\u5165\u53e3\u6253\u5f00\u5373\u53ef\u67e5\u770b\u3002\u6bcf\u5929\u5317\u4eac\u65f6\u95f4 10:00 \u4e91\u7aef\u81ea\u52a8\u66f4\u65b0\uff1b\u82e5\u5f53\u5929\u6682\u65e0\u65b0\u95fb\uff0c\u4e5f\u4f1a\u4ece\u8fd1 12 \u4e2a\u6708\u65b0\u95fb\u6c60\u8f6e\u6362\u4eca\u65e5\u7b80\u62a5\u3002\u6700\u8fd1\u68c0\u67e5\uff1a"
 DEFAULT_VALUE = "\u53ef\u4f5c\u4e3a CPG \u5ba2\u6237\u5207\u5165\u70b9\uff1a\u91cd\u70b9\u89c2\u5bdf\u5b83\u662f\u5426\u80fd\u63d0\u5347\u65b0\u54c1\u79cd\u8349\u3001\u8fbe\u4eba\u8f6c\u5316\u3001\u5546\u54c1\u627f\u63a5\u6216\u81ea\u52a8\u5316\u6295\u653e\u6548\u7387\u3002"
 AI_CATEGORY = "AI/\u81ea\u52a8\u5316"
 PLAY_CATEGORY = "\u5e7f\u544a\u73a9\u6cd5"
@@ -174,9 +175,21 @@ def article_html(item):
     )
 
 
+def daily_items(items, date_key, limit=9):
+    def daily_rank(item):
+        key = f"{date_key}|{item.get('sourceUrl', '')}|{item.get('title', '')}"
+        digest = hashlib.sha256(key.encode("utf-8")).hexdigest()
+        priority_boost = 0 if item.get("priority") == "high" else 1
+        return (priority_boost, digest)
+
+    return sorted(items, key=daily_rank)[:limit]
+
+
 def render(data):
-    high = [item for item in data["items"] if item.get("priority") == "high"][:8]
-    normal = [item for item in data["items"] if item.get("priority") != "high"][:10]
+    date_key = data.get("updatedAt") or datetime.now(SHANGHAI).strftime("%Y-%m-%d")
+    today = daily_items(data["items"], date_key)
+    high = [item for item in today if item.get("priority") == "high"]
+    normal = [item for item in today if item.get("priority") != "high"]
     high_html = "\n    ".join(article_html(item) for item in high)
     normal_html = "\n    ".join(article_html(item) for item in normal)
     status = html.escape(f"{data.get('updatedAt', '')} {data.get('status', '')}".strip())

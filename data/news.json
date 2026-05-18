@@ -2,7 +2,7 @@
   "title": "竞媒小动态",
   "updatedAt": "2026-05-19",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 4 条",
+  "status": "自动新增 1 条",
   "items": [
     {
       "platform": "Meta",
@@ -80,6 +80,17 @@
       "value": "可作为 CPG 客户切入点：重点观察它是否能提升新品种草、达人转化、商品承接或自动化投放效率。",
       "sourceLabel": "jdsupra.com",
       "sourceUrl": "https://www.jdsupra.com/legalnews/tag-you-re-liable-what-instagram-s-new-4486543/"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-05-07",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Meta trial raises stakes as possible exit from New Mexico sparks concerns for local businesses",
+      "summary": "新报道提到 Meta 相关广告/营销动作：Meta trial raises stakes as possible exit from New Mexico sparks concerns for local businesses",
+      "value": "可作为 CPG 客户切入点：重点观察它是否能提升新品种草、达人转化、商品承接或自动化投放效率。",
+      "sourceLabel": "koat.com",
+      "sourceUrl": "https://www.koat.com/article/meta-trial-possible-exit-from-new-mexico-concerns/71234808"
     },
     {
       "platform": "TikTok",
@@ -190,18 +201,7 @@
       "value": "可作为 CPG 客户切入点：重点观察它是否能提升新品种草、达人转化、商品承接或自动化投放效率。",
       "sourceLabel": "beveragedaily.com",
       "sourceUrl": "https://www.beveragedaily.com/Article/2026/04/20/best-strategies-for-fmcg-to-sell-on-tiktok-shop/"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-18",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "QVC Was TikTok Shop Before TikTok Shop",
-      "summary": "新报道提到 TikTok 相关广告/营销动作：QVC Was TikTok Shop Before TikTok Shop",
-      "value": "可作为 CPG 客户切入点：重点观察它是否能提升新品种草、达人转化、商品承接或自动化投放效率。",
-      "sourceLabel": "pymnts.com",
-      "sourceUrl": "https://www.pymnts.com/the-weekender/2026/qvc-was-tiktok-shop-before-tiktok-shop/"
     }
   ],
-  "lastCheckedAt": "2026-05-19 00:53"
+  "lastCheckedAt": "2026-05-19 01:05"
 }
