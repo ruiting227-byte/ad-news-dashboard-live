@@ -140,8 +140,16 @@ def zh_summary_for(item):
         return SUMMARY_ZH[title]
     platform = item.get("platform", "\u7ade\u5a92")
     category = item.get("category", "\u5e7f\u544a/\u8425\u9500")
-    title_zh = item.get("titleZh") or item.get("titleEn") or item.get("title", "")
-    return f"\u62a5\u9053\u5173\u6ce8 {platform} \u4e0e {category} \u76f8\u5173\u7684\u52a8\u6001\uff1a{title_zh}\u3002"
+    lower_title = title.lower()
+    if "creator" in lower_title or "affiliate" in lower_title or "influencer" in lower_title:
+        return f"\u62a5\u9053\u5173\u6ce8 {platform} \u7684\u521b\u4f5c\u8005\u6216\u8054\u76df\u8425\u9500\u52a8\u6001\uff0c\u91cd\u70b9\u5728\u5185\u5bb9\u4e0e\u5546\u4e1a\u8f6c\u5316\u7684\u8fde\u63a5\u65b9\u5f0f\u3002"
+    if "shop" in lower_title or "shopping" in lower_title or "commerce" in lower_title:
+        return f"\u62a5\u9053\u5173\u6ce8 {platform} \u7684\u8d2d\u7269\u6216\u793e\u4ea4\u7535\u5546\u52a8\u6001\uff0c\u91cd\u70b9\u5728\u5546\u54c1\u53d1\u73b0\u3001\u5e97\u94fa\u8fd0\u8425\u6216\u4ea4\u6613\u627f\u63a5\u3002"
+    if "ai" in lower_title or "automation" in lower_title or "smart+" in lower_title or "symphony" in lower_title:
+        return f"\u62a5\u9053\u5173\u6ce8 {platform} \u7684 AI \u6216\u81ea\u52a8\u5316\u8425\u9500\u52a8\u6001\uff0c\u91cd\u70b9\u5728\u521b\u610f\u751f\u6210\u3001\u6295\u653e\u6548\u7387\u6216\u5546\u54c1\u5c55\u793a\u80fd\u529b\u3002"
+    if "retail" in lower_title or "fmcg" in lower_title or "beauty" in lower_title:
+        return f"\u62a5\u9053\u5173\u6ce8\u96f6\u552e\u3001\u7f8e\u5986\u6216\u5feb\u6d88\u9886\u57df\u7684\u5e73\u53f0\u8425\u9500\u52a8\u6001\uff0c\u91cd\u70b9\u5728\u54c1\u724c\u5efa\u8bbe\u3001\u5185\u5bb9\u5206\u53d1\u6216\u9500\u552e\u8f6c\u5316\u3002"
+    return f"\u62a5\u9053\u5173\u6ce8 {platform} \u4e0e {category} \u76f8\u5173\u7684\u6700\u65b0\u52a8\u6001\uff0c\u91cd\u70b9\u5728\u5e73\u53f0\u4ea7\u54c1\u3001\u8425\u9500\u65b9\u5f0f\u6216\u5546\u4e1a\u5316\u8fdb\u5c55\u3002"
 
 
 def has_cjk(value):
@@ -172,8 +180,16 @@ def en_summary_for(item):
         return summary
     platform = item.get("platform", "The competitor")
     category = en_category(item.get("category", ""))
-    title_en = item.get("titleEn") or item.get("title", "")
-    return f"The report covers {platform} activity related to {category}: {title_en}."
+    lower_title = title.lower()
+    if "creator" in lower_title or "affiliate" in lower_title or "influencer" in lower_title:
+        return f"The report covers {platform}'s creator or affiliate marketing activity, focusing on how content is connected to commerce conversion."
+    if "shop" in lower_title or "shopping" in lower_title or "commerce" in lower_title:
+        return f"The report covers {platform}'s shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows."
+    if "ai" in lower_title or "automation" in lower_title or "smart+" in lower_title or "symphony" in lower_title:
+        return f"The report covers {platform}'s AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities."
+    if "retail" in lower_title or "fmcg" in lower_title or "beauty" in lower_title:
+        return "The report covers platform marketing activity in retail, beauty, or FMCG, focusing on brand building, content distribution, or sales conversion."
+    return f"The report covers recent {platform} activity related to {category}, focusing on platform products, marketing formats, or monetization progress."
 
 
 def normalize_item(item):
