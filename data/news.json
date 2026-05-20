@@ -1,9 +1,22 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-20",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 2 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-05-18",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed Educational Program at the 2026 Summer Fancy Foo",
+      "titleEn": "Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed Educational Program at the 2026 Summer Fancy Foo",
+      "sourceLabel": "perishablenews.com",
+      "sourceUrl": "https://perishablenews.com/retailfoodservice/keynote-address-by-chef-marcus-samuelsson-headlines-an-insight-packed-educational-program-at-the-2026-summer-fancy-food-show/",
+      "titleZh": "TikTok 营销动态：Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed",
+      "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
+      "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
+    },
     {
       "platform": "Meta",
       "date": "2026-05-15",
@@ -161,6 +174,19 @@
       "summaryZh": "报道认为 TikTok Shop 的增长可能改变零售流量分配，让内容平台在交易环节中占据更大份额。"
     },
     {
+      "platform": "TikTok",
+      "date": "2026-04-28",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTok Shop and Lazada",
+      "titleEn": "Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTok Shop and Lazada",
+      "sourceLabel": "vietnamnews.vn",
+      "sourceUrl": "https://vietnamnews.vn/economy/1780351/vietnamese-consumers-spend-about-vnd63-billion-per-day-on-shopee-tiktok-shop-and-lazada.html",
+      "titleZh": "TikTok 电商/零售动态：Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTo",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
       "platform": "Meta",
       "date": "2026-04-28",
       "category": "AI/自动化",
@@ -211,33 +237,7 @@
       "titleZh": "TikTok Shop 美国大促背后的创意系统设计者 Kewei Zhu",
       "summaryEn": "The profile uses TikTok Shop's U.S. sales moments to show how creative systems, content pacing, and offer framing shape short-video commerce events.",
       "summaryZh": "文章以 TikTok Shop 美国大促为案例，强调创意系统、内容节奏和卖点组织对直播/短视频电商节点的作用。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-21",
-      "category": "自动化",
-      "priority": "normal",
-      "title": "Smart+ / Pulse View+ / Collage Carousel",
-      "sourceLabel": "TikTok for Business",
-      "sourceUrl": "https://ads.tiktok.com/business/en-US/blog/tiktok-product-preview",
-      "titleEn": "Smart+ / Pulse View+ / Collage Carousel",
-      "titleZh": "Smart+ / Pulse View+ / Collage Carousel",
-      "summaryEn": "TikTok expanded automation, attention optimization, and product-carousel formats, bundling brand exposure, view quality, and commerce display into its ad updates.",
-      "summaryZh": "TikTok 扩展自动化投放、注意力优化和商品轮播格式，把品牌曝光、观看质量和商品展示放进同一套广告产品更新中。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-20",
-      "category": "广告玩法",
-      "priority": "high",
-      "title": "Best strategies for FMCG to sell on TikTok Shop",
-      "sourceLabel": "beveragedaily.com",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/04/20/best-strategies-for-fmcg-to-sell-on-tiktok-shop/",
-      "titleEn": "Best strategies for FMCG to sell on TikTok Shop",
-      "titleZh": "FMCG 品牌在 TikTok Shop 销售的关键策略",
-      "summaryEn": "The article argues that FMCG selling on TikTok Shop depends on combining store operations, short-form content, and creator collaboration rather than listing products alone.",
-      "summaryZh": "文章强调 FMCG 在 TikTok Shop 上需要把货架运营、短视频内容和达人合作结合起来，而不是只依赖店铺上架。"
     }
   ],
-  "lastCheckedAt": "2026-05-19 20:31"
+  "lastCheckedAt": "2026-05-20 20:08"
 }
