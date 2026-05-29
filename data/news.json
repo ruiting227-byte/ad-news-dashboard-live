@@ -1,9 +1,48 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-05-28",
+  "updatedAt": "2026-05-29",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 3 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-05-22",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "TikTok Shop has all the weird kitchen products you didnt know you needed – Daily Press",
+      "titleEn": "TikTok Shop has all the weird kitchen products you didnt know you needed – Daily Press",
+      "sourceLabel": "dailypress.com",
+      "sourceUrl": "https://www.dailypress.com/2026/05/22/tiktok-shop-has-all-the-weird-kitchen-products-you-didnt-know-you-needed/",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop has all the weird kitchen products you didnt know you needed",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-05-22",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok Shop has all the weird kitchen products you didnt know you needed – Sun Sentinel",
+      "titleEn": "TikTok Shop has all the weird kitchen products you didnt know you needed – Sun Sentinel",
+      "sourceLabel": "sun-sentinel.com",
+      "sourceUrl": "https://www.sun-sentinel.com/2026/05/22/tiktok-shop-has-all-the-weird-kitchen-products-you-didnt-know-you-needed/",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop has all the weird kitchen products you didnt know you needed",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-05-21",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok shifts destination marketing towards creator - led travel discovery",
+      "titleEn": "TikTok shifts destination marketing towards creator - led travel discovery",
+      "sourceLabel": "bizcommunity.com",
+      "sourceUrl": "https://www.bizcommunity.com/article/tiktok-shifts-destination-marketing-towards-creator-led-travel-discovery-178766a",
+      "titleZh": "TikTok 创作者/内容合作动态：TikTok shifts destination marketing towards creator - led travel discove",
+      "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-05-18",
@@ -198,46 +237,7 @@
       "titleZh": "品牌安全 FAQ：AI 内容和创作者营销如何改写 2026 年风险",
       "summaryEn": "AI content and creator marketing are expanding brand-safety risk from media placement into asset generation, creator partnerships, and content review.",
       "summaryZh": "AI 内容和创作者营销让品牌安全风险从媒体环境扩展到素材生成、达人合作和内容审核链路。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-04-23",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Beauty Giants Race to Own the AI Shopping Moment",
-      "sourceLabel": "pymnts.com",
-      "sourceUrl": "https://www.pymnts.com/artificial-intelligence-2/2026/beauty-giants-race-to-own-the-ai-shopping-moment/",
-      "titleEn": "Beauty Giants Race to Own the AI Shopping Moment",
-      "titleZh": "美妆巨头争夺 AI 购物场景",
-      "summaryEn": "Beauty companies are accelerating AI shopping experiences to influence consumers earlier in search, trial, and product-selection moments.",
-      "summaryZh": "美妆企业加速部署 AI 购物体验，希望在消费者搜索、试用和选购环节中提前影响决策。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-04-22",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "How to use social media for retail brands : 5 key strategies",
-      "sourceLabel": "blog.hootsuite.com",
-      "sourceUrl": "https://blog.hootsuite.com/social-media-marketing-for-retail-brands/",
-      "titleEn": "How to use social media for retail brands : 5 key strategies",
-      "titleZh": "零售品牌如何使用社交媒体：5 个关键策略",
-      "summaryEn": "The article frames retail social strategy around content cadence, community interaction, product presentation, and conversion tracking rather than simple posting.",
-      "summaryZh": "文章将零售社媒运营重点放在内容节奏、社区互动、商品展示和转化追踪上，而不是单纯发布品牌内容。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-21",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Kewei Zhu : The creative systems architect behind TikTok Shop biggest U . S . selling moments",
-      "sourceLabel": "digitaljournal.com",
-      "sourceUrl": "https://www.digitaljournal.com/business/kewei-zhu-the-creative-systems-architect-behind-tiktok-shops-biggest-u-s-selling-moments/article",
-      "titleEn": "Kewei Zhu : The creative systems architect behind TikTok Shop biggest U . S . selling moments",
-      "titleZh": "TikTok Shop 美国大促背后的创意系统设计者 Kewei Zhu",
-      "summaryEn": "The profile uses TikTok Shop's U.S. sales moments to show how creative systems, content pacing, and offer framing shape short-video commerce events.",
-      "summaryZh": "文章以 TikTok Shop 美国大促为案例，强调创意系统、内容节奏和卖点组织对直播/短视频电商节点的作用。"
     }
   ],
-  "lastCheckedAt": "2026-05-28 22:54"
+  "lastCheckedAt": "2026-05-29 20:37"
 }
