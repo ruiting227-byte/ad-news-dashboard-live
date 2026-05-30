@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-05-29",
+  "updatedAt": "2026-05-30",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 3 条",
+  "status": "已自动检查，暂无新增",
   "items": [
     {
       "platform": "TikTok",
@@ -239,5 +239,5 @@
       "summaryZh": "AI 内容和创作者营销让品牌安全风险从媒体环境扩展到素材生成、达人合作和内容审核链路。"
     }
   ],
-  "lastCheckedAt": "2026-05-29 20:37"
+  "lastCheckedAt": "2026-05-30 17:31"
 }
