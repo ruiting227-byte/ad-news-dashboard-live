@@ -1,9 +1,48 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 4 条",
   "items": [
+    {
+      "platform": "Meta",
+      "date": "2026-06-10",
+      "category": "广告玩法",
+      "priority": "high",
+      "title": "Flipkart Partners Meta to Enable Creator - Led Shopping on Facebook and Instagram",
+      "titleEn": "Flipkart Partners Meta to Enable Creator - Led Shopping on Facebook and Instagram",
+      "sourceLabel": "dailypioneer.com",
+      "sourceUrl": "https://dailypioneer.com/news/flipkart-partners-with-meta-for-creator-led-shopping",
+      "titleZh": "Meta 电商/零售动态：Flipkart Partners Meta to Enable Creator - Led Shopping on Facebook and",
+      "summaryEn": "The report covers Meta's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 Meta 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-06-09",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in India , ETRetail",
+      "titleEn": "Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in India , ETRetail",
+      "sourceLabel": "retail.economictimes.indiatimes.com",
+      "sourceUrl": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-group-partners-with-meta-to-expand-creator-led-commerce-in-india/131609646",
+      "titleZh": "Meta 电商/零售动态：Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in",
+      "summaryEn": "The report covers Meta's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 Meta 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-05-28",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Fortune Tech : Meta subscriptions , Polymarket insider trading , Robinhood agentic shopping",
+      "titleEn": "Fortune Tech : Meta subscriptions , Polymarket insider trading , Robinhood agentic shopping",
+      "sourceLabel": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/05/28/subscription-plans-meta-finally-moves-diversify-revenue/",
+      "titleZh": "Meta 电商/零售动态：Fortune Tech : Meta subscriptions , Polymarket insider trading , Robinho",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-05-22",
@@ -40,6 +79,19 @@
       "sourceLabel": "bizcommunity.com",
       "sourceUrl": "https://www.bizcommunity.com/article/tiktok-shifts-destination-marketing-towards-creator-led-travel-discovery-178766a",
       "titleZh": "TikTok 创作者/内容合作动态：TikTok shifts destination marketing towards creator - led travel discove",
+      "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-05-19",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "The Social Skinny : TikTok and FIFA debut World Cup creator correspondents",
+      "titleEn": "The Social Skinny : TikTok and FIFA debut World Cup creator correspondents",
+      "sourceLabel": "campaignlive.com",
+      "sourceUrl": "https://www.campaignlive.com/article/social-skinny-tiktok-fifa-debut-world-cup-creator-correspondents/1958297",
+      "titleZh": "TikTok 创作者/内容合作动态：The Social Skinny : TikTok and FIFA debut World Cup creator corresponden",
       "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
       "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
     },
@@ -185,59 +237,7 @@
       "titleZh": "Nykaa 因 Instagram Reels 音乐版权使用问题被起诉",
       "summaryEn": "Nykaa's Reels music lawsuit highlights licensing risk when brands use popular music and platform-native assets in short-video marketing.",
       "summaryZh": "Nykaa 因 Reels 音乐版权被诉，凸显品牌在短视频营销中使用流行音乐和平台素材时的授权风险。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-05-06",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "TikTok launches international ad platform campaign",
-      "sourceLabel": "socialmediatoday.com",
-      "sourceUrl": "https://www.socialmediatoday.com/news/tiktok-launches-international-ad-platform-campaign/819392/",
-      "titleEn": "TikTok launches international ad platform campaign",
-      "titleZh": "TikTok 发起国际广告平台营销战役",
-      "summaryEn": "TikTok launched an international ad-platform campaign to position itself beyond entertainment and closer to performance media and business growth.",
-      "summaryZh": "TikTok 发起国际广告平台宣传，试图把自身定位从内容娱乐平台进一步推向效果广告和商业增长工具。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-29",
-      "category": "AI/自动化",
-      "priority": "high",
-      "title": "TikTok Shop on Track to Seize 10 % of Retail Sales",
-      "sourceLabel": "pymnts.com",
-      "sourceUrl": "https://www.pymnts.com/news/social-commerce/2026/tiktok-shop-on-track-to-seize-10percent-of-retail-sales/",
-      "titleEn": "TikTok Shop on Track to Seize 10 % of Retail Sales",
-      "titleZh": "TikTok Shop 有望占据零售销售 10% 份额",
-      "summaryEn": "The report argues that TikTok Shop's growth could shift retail traffic allocation and give content platforms a larger role in transactions.",
-      "summaryZh": "报道认为 TikTok Shop 的增长可能改变零售流量分配，让内容平台在交易环节中占据更大份额。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-04-28",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTok Shop and Lazada",
-      "titleEn": "Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTok Shop and Lazada",
-      "sourceLabel": "vietnamnews.vn",
-      "sourceUrl": "https://vietnamnews.vn/economy/1780351/vietnamese-consumers-spend-about-vnd63-billion-per-day-on-shopee-tiktok-shop-and-lazada.html",
-      "titleZh": "TikTok 电商/零售动态：Vietnamese consumers spend about VNĐ63 billion per day on Shopee , TikTo",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-04-28",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "FAQ on brand safety : How AI content and creator marketing are reshaping risk in 2026",
-      "sourceLabel": "emarketer.com",
-      "sourceUrl": "https://www.emarketer.com/content/faq-on-brand-safety--how-ai-content-creator-marketing-reshaping-risk-2026",
-      "titleEn": "FAQ on brand safety : How AI content and creator marketing are reshaping risk in 2026",
-      "titleZh": "品牌安全 FAQ：AI 内容和创作者营销如何改写 2026 年风险",
-      "summaryEn": "AI content and creator marketing are expanding brand-safety risk from media placement into asset generation, creator partnerships, and content review.",
-      "summaryZh": "AI 内容和创作者营销让品牌安全风险从媒体环境扩展到素材生成、达人合作和内容审核链路。"
     }
   ],
-  "lastCheckedAt": "2026-06-09 20:26"
+  "lastCheckedAt": "2026-06-10 22:30"
 }
