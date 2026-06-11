@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-06-10",
+  "updatedAt": "2026-06-11",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 4 条",
+  "status": "已自动检查，暂无新增",
   "items": [
     {
       "platform": "Meta",
@@ -239,5 +239,5 @@
       "summaryZh": "Nykaa 因 Reels 音乐版权被诉，凸显品牌在短视频营销中使用流行音乐和平台素材时的授权风险。"
     }
   ],
-  "lastCheckedAt": "2026-06-10 22:30"
+  "lastCheckedAt": "2026-06-11 23:04"
 }
