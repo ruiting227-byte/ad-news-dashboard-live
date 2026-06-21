@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-06-20",
+  "updatedAt": "2026-06-21",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 4 条",
+  "status": "已自动检查，暂无新增",
   "items": [
     {
       "platform": "TikTok",
@@ -239,5 +239,5 @@
       "summaryZh": "Meta 把 AI 推荐、Reels 内容和创作者导购整合进购物链路，意图缩短从内容种草到商品购买的路径。"
     }
   ],
-  "lastCheckedAt": "2026-06-20 14:38"
+  "lastCheckedAt": "2026-06-21 14:58"
 }
