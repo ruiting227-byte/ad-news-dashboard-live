@@ -1,9 +1,35 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-06-21",
+  "updatedAt": "2026-06-22",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 2 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-06-20",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
+      "titleEn": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
+      "sourceLabel": "manilatimes.net",
+      "sourceUrl": "https://www.manilatimes.net/2026/06/20/tmt-newswire/globenewswire/garvee-teams-up-with-tiktok-shop-for-super-brand-day-bringing-exclusive-limited-time-deals-across-summer-cooling-outdoor-living-and-best-selling-home-essentials/2369347",
+      "titleZh": "TikTok 电商/零售动态：GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusiv",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-06-20",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
+      "titleEn": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
+      "sourceLabel": "itnewsonline.com",
+      "sourceUrl": "https://www.itnewsonline.com/GlobeNewswire/GARVEE-Teams-Up-with-TikTok-Shop-for-Super-Brand-Day-Bringing-Exclusive-Limited-Time-Deals-Across-Summer-Cooling-Outdoor-Living-and-Best-Selling-Home-Essentials/124927",
+      "titleZh": "TikTok 电商/零售动态：GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusiv",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-06-18",
@@ -211,33 +237,7 @@
       "titleZh": "TikTok 创作者/内容合作动态：The Social Skinny : TikTok and FIFA debut World Cup creator corresponden",
       "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
       "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-05-18",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed Educational Program at the 2026 Summer Fancy Foo",
-      "titleEn": "Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed Educational Program at the 2026 Summer Fancy Foo",
-      "sourceLabel": "perishablenews.com",
-      "sourceUrl": "https://perishablenews.com/retailfoodservice/keynote-address-by-chef-marcus-samuelsson-headlines-an-insight-packed-educational-program-at-the-2026-summer-fancy-food-show/",
-      "titleZh": "TikTok 营销动态：Keynote Address by Chef Marcus Samuelsson Headlines an Insight - Packed",
-      "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
-      "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-05-15",
-      "category": "AI/自动化",
-      "priority": "high",
-      "title": "Meta Launches New Era Of Shopping Experiences Powered By AI , Reels & Creators",
-      "sourceLabel": "technuter.com",
-      "sourceUrl": "https://www.technuter.com/e-commerce/meta-launches-new-era-of-shopping-experiences-powered-by-ai-reels-creators.html",
-      "titleEn": "Meta Launches New Era Of Shopping Experiences Powered By AI , Reels & Creators",
-      "titleZh": "Meta 推出由 AI、Reels 和创作者驱动的购物体验",
-      "summaryEn": "Meta is combining AI recommendations, Reels, and creator-led shopping to shorten the path from content discovery to purchase.",
-      "summaryZh": "Meta 把 AI 推荐、Reels 内容和创作者导购整合进购物链路，意图缩短从内容种草到商品购买的路径。"
     }
   ],
-  "lastCheckedAt": "2026-06-21 14:58"
+  "lastCheckedAt": "2026-06-22 15:34"
 }
