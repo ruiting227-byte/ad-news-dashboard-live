@@ -1,9 +1,61 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-09",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 4 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-07-08",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok Shop turns a new page for leading united kingdom book publishers following 250 % growth",
+      "titleEn": "TikTok Shop turns a new page for leading united kingdom book publishers following 250 % growth",
+      "sourceLabel": "retailtimes.co.uk",
+      "sourceUrl": "https://retailtimes.co.uk/tiktok-shop-turns-a-new-page-for-leading-uk-book-publishers-following-250-growth/",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop turns a new page for leading united kingdom book publishers",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-07",
+      "category": "AI/自动化",
+      "priority": "high",
+      "title": "TikTok Shop strengthens beauty discovery with Seoul Glow K - Beauty Campaign",
+      "titleEn": "TikTok Shop strengthens beauty discovery with Seoul Glow K - Beauty Campaign",
+      "sourceLabel": "manilatimes.net",
+      "sourceUrl": "https://www.manilatimes.net/2026/07/07/entertainment-lifestyle/life-times/tiktok-shop-strengthens-beauty-discovery-with-seoul-glow-k-beauty-campaign/2379436",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop strengthens beauty discovery with Seoul Glow K - Beauty Camp",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-07",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok Shop promotes K - Beauty discovery with 50 % off on participating brands this July 10",
+      "titleEn": "TikTok Shop promotes K - Beauty discovery with 50 % off on participating brands this July 10",
+      "sourceLabel": "philstar.com",
+      "sourceUrl": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/07/07/2540259/tiktok-shop-promotes-k-beauty-discovery-50-participating-brands-july-10",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop promotes K - Beauty discovery with 50 % off on participating",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-07",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "QVC Laura Southern on taking live shopping from TV screens to TikTok feeds",
+      "titleEn": "QVC Laura Southern on taking live shopping from TV screens to TikTok feeds",
+      "sourceLabel": "thedrum.com",
+      "sourceUrl": "https://www.thedrum.com/news/qvc-s-laura-southern-on-taking-live-shopping-from-tv-screens-to-tiktok-feeds",
+      "titleZh": "TikTok 电商/零售动态：QVC Laura Southern on taking live shopping from TV screens to TikTok fee",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-06-29",
@@ -185,59 +237,7 @@
       "titleZh": "Meta 电商/零售动态：Flipkart Partners Meta to Enable Creator - Led Shopping on Facebook and",
       "summaryEn": "The report covers Meta's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
       "summaryZh": "报道关注 Meta 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-06-09",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in India , ETRetail",
-      "titleEn": "Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in India , ETRetail",
-      "sourceLabel": "retail.economictimes.indiatimes.com",
-      "sourceUrl": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/flipkart-group-partners-with-meta-to-expand-creator-led-commerce-in-india/131609646",
-      "titleZh": "Meta 电商/零售动态：Meta and Flipkart Join Forces to Revolutionize Creator - Led Commerce in",
-      "summaryEn": "The report covers Meta's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
-      "summaryZh": "报道关注 Meta 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-06-05",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "How beauty brand Xali Organics scaled to $20m without investors",
-      "titleEn": "How beauty brand Xali Organics scaled to $20m without investors",
-      "sourceLabel": "smartcompany.com.au",
-      "sourceUrl": "https://www.smartcompany.com.au/retail/she-chopped-off-her-lashes-xali-organics-20-million-revenue/",
-      "titleZh": "Meta 营销动态：How beauty brand Xali Organics scaled to $20m without investors",
-      "summaryEn": "The report covers platform marketing activity in retail, beauty, or FMCG, focusing on brand building, content distribution, or sales conversion.",
-      "summaryZh": "报道关注零售、美妆或快消领域的平台营销动态，重点在品牌建设、内容分发或销售转化。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-06-01",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Kyzenn Releases Marketplace Growth Framework for Amazon and Retail Media Brands",
-      "titleEn": "Kyzenn Releases Marketplace Growth Framework for Amazon and Retail Media Brands",
-      "sourceLabel": "newjerseytelegraph.com",
-      "sourceUrl": "http://www.newjerseytelegraph.com/news/279095468/kyzenn-releases-marketplace-growth-framework-for-amazon-and-retail-media-brands",
-      "titleZh": "TikTok 电商/零售动态：Kyzenn Releases Marketplace Growth Framework for Amazon and Retail Media",
-      "summaryEn": "The report covers TikTok's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-05-28",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Drinkable sunscreen & betting reels : how offshore platforms and wellness brands dodge India ad rules",
-      "titleEn": "Drinkable sunscreen & betting reels : how offshore platforms and wellness brands dodge India ad rules",
-      "sourceLabel": "livemint.com",
-      "sourceUrl": "https://www.livemint.com/industry/advertising/drinkable-sunscreen-betting-reels-how-offshore-platforms-and-wellness-brands-dodge-indias-ad-rules-11779866590947.html",
-      "titleZh": "Meta 创作者/内容合作动态：Drinkable sunscreen & betting reels : how offshore platforms and wellnes",
-      "summaryEn": "The report covers recent Meta activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
-      "summaryZh": "报道关注 Meta 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
     }
   ],
-  "lastCheckedAt": "2026-07-08 13:28"
+  "lastCheckedAt": "2026-07-09 14:12"
 }
