@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-07-11",
+  "updatedAt": "2026-07-12",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 4 条",
+  "status": "已自动检查，暂无新增",
   "items": [
     {
       "platform": "TikTok",
@@ -239,5 +239,5 @@
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     }
   ],
-  "lastCheckedAt": "2026-07-11 13:19"
+  "lastCheckedAt": "2026-07-12 13:35"
 }
