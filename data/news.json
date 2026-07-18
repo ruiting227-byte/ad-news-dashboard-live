@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-18",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 1 条",
   "items": [
     {
       "platform": "TikTok",
@@ -122,6 +122,19 @@
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     },
     {
+      "platform": "Meta",
+      "date": "2026-07-05",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthetic Content",
+      "titleEn": "Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthetic Content",
+      "sourceLabel": "techtimes.com",
+      "sourceUrl": "https://www.techtimes.com/articles/319755/20260705/model-collapse-risk-grows-metas-ai-ad-blitz-floods-web-synthetic-content.htm",
+      "titleZh": "Meta AI 与自动化广告动态：Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthe",
+      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
+    {
       "platform": "TikTok",
       "date": "2026-06-29",
       "category": "广告玩法",
@@ -224,20 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Drivi",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-06-18",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Physician Choice : Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Driving Nearly $1 Million in GMV",
-      "titleEn": "Physician Choice : Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Driving Nearly $1 Million in GMV",
-      "sourceLabel": "finanznachrichten.de",
-      "sourceUrl": "https://www.finanznachrichten.de/nachrichten-2026-06/68797469-physician-s-choice-physician-s-choice-ranks-3-on-tiktok-shop-during-super-brand-day-driving-nearly-dollar-1-million-in-gmv-008.htm",
-      "titleZh": "TikTok 电商/零售动态：Physician Choice : Physician Choice Ranks # 3 on TikTok Shop During Supe",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     }
   ],
-  "lastCheckedAt": "2026-07-17 13:20"
+  "lastCheckedAt": "2026-07-18 12:54"
 }
