@@ -1,9 +1,35 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 1 条",
+  "status": "自动新增 2 条",
   "items": [
+    {
+      "platform": "Meta",
+      "date": "2026-07-19",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Creator - led activation events : Are brands losing authenticity in the pursuit of visibility ?",
+      "titleEn": "Creator - led activation events : Are brands losing authenticity in the pursuit of visibility ?",
+      "sourceLabel": "livemint.com",
+      "sourceUrl": "https://www.livemint.com/mint-lounge/business-of-life/creator-events-zepto-flipkart-influencer-marketing-fail-11784348613105.html",
+      "titleZh": "Meta 创作者/内容合作动态：Creator - led activation events : Are brands losing authenticity in the",
+      "summaryEn": "The report covers Meta's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 Meta 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-07-12",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "K - beauty shopping diversifies beyond Olive Young",
+      "titleEn": "K - beauty shopping diversifies beyond Olive Young",
+      "sourceLabel": "koreatimes.co.kr",
+      "sourceUrl": "https://www.koreatimes.co.kr/business/companies/20260713/k-beauty-shopping-diversifies-beyond-olive-young",
+      "titleZh": "Meta 电商/零售动态：K - beauty shopping diversifies beyond Olive Young",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-07-10",
@@ -211,33 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusiv",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-06-20",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
-      "titleEn": "GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusive Limited - Time Deals Across Summer Cooling , O",
-      "sourceLabel": "itnewsonline.com",
-      "sourceUrl": "https://www.itnewsonline.com/GlobeNewswire/GARVEE-Teams-Up-with-TikTok-Shop-for-Super-Brand-Day-Bringing-Exclusive-Limited-Time-Deals-Across-Summer-Cooling-Outdoor-Living-and-Best-Selling-Home-Essentials/124927",
-      "titleZh": "TikTok 电商/零售动态：GARVEE Teams Up with TikTok Shop for Super Brand Day , Bringing Exclusiv",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-06-18",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Driving Nearly $1 Million in GMV",
-      "titleEn": "Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Driving Nearly $1 Million in GMV",
-      "sourceLabel": "prnewswire.com",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/physicians-choice-ranks-3-on-tiktok-shop-during-super-brand-day-driving-nearly-1-million-in-gmv-302803749.html",
-      "titleZh": "TikTok 电商/零售动态：Physician Choice Ranks # 3 on TikTok Shop During Super Brand Day , Drivi",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     }
   ],
-  "lastCheckedAt": "2026-07-18 12:54"
+  "lastCheckedAt": "2026-07-19 13:29"
 }
