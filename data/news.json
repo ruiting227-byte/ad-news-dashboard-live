@@ -1,9 +1,22 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 4 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-07-31",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Who is Ulta Beauty partnering with ? See details",
+      "titleEn": "Who is Ulta Beauty partnering with ? See details",
+      "sourceLabel": "shopping.yahoo.com",
+      "sourceUrl": "https://shopping.yahoo.com/beauty/makeup/articles/ulta-beauty-partnering-see-details-144629399.html",
+      "titleZh": "TikTok AI 与自动化广告动态：Who is Ulta Beauty partnering with ? See details",
+      "summaryEn": "The report covers TikTok's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-07-23",
@@ -16,6 +29,19 @@
       "titleZh": "TikTok 营销动态：27 - Year - Old Woman Made $130K in 12 Hours on TikTok : Her Side Hustle",
       "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
       "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-20",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "LTK : Creator Economy Retail Affiliate Infrastructure",
+      "titleEn": "LTK : Creator Economy Retail Affiliate Infrastructure",
+      "sourceLabel": "everything-pr.com",
+      "sourceUrl": "https://everything-pr.com/ltk-the-retail-affiliate-infrastructure-of-the-creator-economy",
+      "titleZh": "TikTok 电商/零售动态：LTK : Creator Economy Retail Affiliate Infrastructure",
+      "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
+      "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
     },
     {
       "platform": "TikTok",
@@ -79,6 +105,32 @@
       "sourceLabel": "straitstimes.com",
       "sourceUrl": "https://www.straitstimes.com/life/food/brick-and-mortar-fb-shops-branch-out-to-tiktok-shop-live-selling-to-boost-revenue",
       "titleZh": "TikTok 电商/零售动态：TikTok Shop live selling for F & B businesses",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-15",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Fast Moving Consumer Goods , Inc . Launches the CPG Brand Builder Series on July 14 , 2026 , a Free 12 - Week Program fo",
+      "titleEn": "Fast Moving Consumer Goods , Inc . Launches the CPG Brand Builder Series on July 14 , 2026 , a Free 12 - Week Program fo",
+      "sourceLabel": "tennesseedaily.com",
+      "sourceUrl": "http://www.tennesseedaily.com/news/279188916/fast-moving-consumer-goods-inc-launches-the-cpg-brand-builder-series-on-july-14-2026-a-free-12-week-program-for-beverage-founders-investors-and-brand-managers-nationwide",
+      "titleZh": "TikTok 营销动态：Fast Moving Consumer Goods , Inc . Launches the CPG Brand Builder Series",
+      "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
+      "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-07-15",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Podean Acquires Social Commerce Club , Strengthening Global Leadership in TikTok Shop and Social Commerce",
+      "titleEn": "Podean Acquires Social Commerce Club , Strengthening Global Leadership in TikTok Shop and Social Commerce",
+      "sourceLabel": "finanznachrichten.de",
+      "sourceUrl": "https://www.finanznachrichten.de/nachrichten-2026-07/69036436-podean-acquires-social-commerce-club-strengthening-global-leadership-in-tiktok-shop-and-social-commerce-399.htm",
+      "titleZh": "TikTok 电商/零售动态：Podean Acquires Social Commerce Club , Strengthening Global Leadership i",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     },
@@ -185,59 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：TikTok Shop strengthens beauty discovery with Seoul Glow K - Beauty Camp",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-07",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "TikTok Shop promotes K - Beauty discovery with 50 % off on participating brands this July 10",
-      "titleEn": "TikTok Shop promotes K - Beauty discovery with 50 % off on participating brands this July 10",
-      "sourceLabel": "philstar.com",
-      "sourceUrl": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/07/07/2540259/tiktok-shop-promotes-k-beauty-discovery-50-participating-brands-july-10",
-      "titleZh": "TikTok 电商/零售动态：TikTok Shop promotes K - Beauty discovery with 50 % off on participating",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-07",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "QVC Laura Southern on taking live shopping from TV screens to TikTok feeds",
-      "titleEn": "QVC Laura Southern on taking live shopping from TV screens to TikTok feeds",
-      "sourceLabel": "thedrum.com",
-      "sourceUrl": "https://www.thedrum.com/news/qvc-s-laura-southern-on-taking-live-shopping-from-tv-screens-to-tiktok-feeds",
-      "titleZh": "TikTok 电商/零售动态：QVC Laura Southern on taking live shopping from TV screens to TikTok fee",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-07-05",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthetic Content",
-      "titleEn": "Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthetic Content",
-      "sourceLabel": "techtimes.com",
-      "sourceUrl": "https://www.techtimes.com/articles/319755/20260705/model-collapse-risk-grows-metas-ai-ad-blitz-floods-web-synthetic-content.htm",
-      "titleZh": "Meta AI 与自动化广告动态：Model Collapse Risk Grows as Meta AI Ad Blitz Floods the Web With Synthe",
-      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-06-29",
-      "category": "广告玩法",
-      "priority": "high",
-      "title": "How TikTok Shop is changing innovation for food and beverage brands",
-      "titleEn": "How TikTok Shop is changing innovation for food and beverage brands",
-      "sourceLabel": "fooddive.com",
-      "sourceUrl": "https://www.fooddive.com/news/big-food-companies-tik-tok-shop/823959/",
-      "titleZh": "TikTok 电商/零售动态：How TikTok Shop is changing innovation for food and beverage brands",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     }
   ],
-  "lastCheckedAt": "2026-07-31 13:42"
+  "lastCheckedAt": "2026-08-01 13:33"
 }
