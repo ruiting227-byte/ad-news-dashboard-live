@@ -1,9 +1,22 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 1 条",
   "items": [
+    {
+      "platform": "Meta",
+      "date": "2026-09-11",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Meta new AI can shop for you . The question is whether anyone wants it to",
+      "titleEn": "Meta new AI can shop for you . The question is whether anyone wants it to",
+      "sourceLabel": "fortune.com",
+      "sourceUrl": "https://fortune.com/2026/09/11/meta-muse-ai-shopping-agent-consumer-trust/",
+      "titleZh": "Meta 电商/零售动态：Meta new AI can shop for you . The question is whether anyone wants it t",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-09-10",
@@ -224,20 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：TikTok Shop Is About to Be Bigger Than Target and That Is Not Even the M",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-20",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "LTK : Creator Economy Retail Affiliate Infrastructure",
-      "titleEn": "LTK : Creator Economy Retail Affiliate Infrastructure",
-      "sourceLabel": "everything-pr.com",
-      "sourceUrl": "https://everything-pr.com/ltk-the-retail-affiliate-infrastructure-of-the-creator-economy",
-      "titleZh": "TikTok 电商/零售动态：LTK : Creator Economy Retail Affiliate Infrastructure",
-      "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
-      "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
     }
   ],
-  "lastCheckedAt": "2026-09-13 15:24"
+  "lastCheckedAt": "2026-09-14 15:49"
 }
