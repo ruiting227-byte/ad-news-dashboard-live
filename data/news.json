@@ -1,9 +1,61 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 4 条",
   "items": [
+    {
+      "platform": "Meta",
+      "date": "2026-09-22",
+      "category": "AI/自动化",
+      "priority": "high",
+      "title": "Amazon Blocks Meta AI Shopping Agent Muse on Retail Site , ETRetail",
+      "titleEn": "Amazon Blocks Meta AI Shopping Agent Muse on Retail Site , ETRetail",
+      "sourceLabel": "retail.economictimes.indiatimes.com",
+      "sourceUrl": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/amazon-blocks-metas-muse-ai-agent-from-its-retail-site/134400234",
+      "titleZh": "Meta 电商/零售动态：Amazon Blocks Meta AI Shopping Agent Muse on Retail Site , ETRetail",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-09-22",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Amazon blocks Meta AI Agent Muse AI on its app , unhappy with Facebook - parent capturing and storing customer credentia",
+      "titleEn": "Amazon blocks Meta AI Agent Muse AI on its app , unhappy with Facebook - parent capturing and storing customer credentia",
+      "sourceLabel": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-blocks-metas-ai-agent-muse-ai-on-its-app-unhappy-with-facebook-parent-capturing-and-storing-customer-credentials-says-never-told-us-that-/articleshow/134400389.cms",
+      "titleZh": "Meta AI 与自动化广告动态：Amazon blocks Meta AI Agent Muse AI on its app , unhappy with Facebook -",
+      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-09-21",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Amazon blocks Meta Muse AI agent from shopping site amid bot access standoff",
+      "titleEn": "Amazon blocks Meta Muse AI agent from shopping site amid bot access standoff",
+      "sourceLabel": "moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/companies/amazon-blocks-meta-s-muse-ai-agent-from-shopping-site-amid-bot-access-standoff-14034805.html",
+      "titleZh": "Meta 电商/零售动态：Amazon blocks Meta Muse AI agent from shopping site amid bot access stan",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-09-21",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Amazon Blocks Meta Muse AI From Online Store",
+      "titleEn": "Amazon Blocks Meta Muse AI From Online Store",
+      "sourceLabel": "theepochtimes.com",
+      "sourceUrl": "https://www.theepochtimes.com/business/amazon-blocks-metas-muse-ai-from-online-store-6092880",
+      "titleZh": "Meta AI 与自动化广告动态：Amazon Blocks Meta Muse AI From Online Store",
+      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
     {
       "platform": "Meta",
       "date": "2026-09-11",
@@ -185,59 +237,7 @@
       "titleZh": "TikTok AI 与自动化广告动态：Who is Ulta Beauty partnering with ? See details",
       "summaryEn": "The report covers TikTok's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
       "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-07-30",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Meta Platforms vs . Microsoft : What Recent Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "titleEn": "Meta Platforms vs . Microsoft : What Recent Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "sourceLabel": "finance.yahoo.com",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-vs-microsoft-recent-193101629.html",
-      "titleZh": "Meta 营销动态：Meta Platforms vs . Microsoft : What Recent Revenue Trends Tell Investor",
-      "summaryEn": "The report covers recent Meta activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
-      "summaryZh": "报道关注 Meta 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-27",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Pacsun , Ulta Beauty debut curated beauty collaboration",
-      "titleEn": "Pacsun , Ulta Beauty debut curated beauty collaboration",
-      "sourceLabel": "retaildive.com",
-      "sourceUrl": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
-      "titleZh": "TikTok 营销动态：Pacsun , Ulta Beauty debut curated beauty collaboration",
-      "summaryEn": "The report covers platform marketing activity in retail, beauty, or FMCG, focusing on brand building, content distribution, or sales conversion.",
-      "summaryZh": "报道关注零售、美妆或快消领域的平台营销动态，重点在品牌建设、内容分发或销售转化。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-23",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "27 - Year - Old Woman Made $130K in 12 Hours on TikTok : Her Side Hustle Now Generates $7 . 8M a Year",
-      "titleEn": "27 - Year - Old Woman Made $130K in 12 Hours on TikTok : Her Side Hustle Now Generates $7 . 8M a Year",
-      "sourceLabel": "ibtimes.co.uk",
-      "sourceUrl": "https://www.ibtimes.co.uk/tiktok-live-shopping-uk-ecommerce-revolution-1810001",
-      "titleZh": "TikTok 营销动态：27 - Year - Old Woman Made $130K in 12 Hours on TikTok : Her Side Hustle",
-      "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
-      "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-21",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "TikTok Shop Is About to Be Bigger Than Target and That Is Not Even the Most Interesting Part of This Story",
-      "titleEn": "TikTok Shop Is About to Be Bigger Than Target and That Is Not Even the Most Interesting Part of This Story",
-      "sourceLabel": "qrcodepress.com",
-      "sourceUrl": "https://www.qrcodepress.com/tiktok-shop-about-to-bigger-target/8545548/",
-      "titleZh": "TikTok 电商/零售动态：TikTok Shop Is About to Be Bigger Than Target and That Is Not Even the M",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
     }
   ],
-  "lastCheckedAt": "2026-09-21 15:52"
+  "lastCheckedAt": "2026-09-22 15:37"
 }
