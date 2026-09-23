@@ -1,8 +1,8 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "自动新增 4 条",
+  "status": "已自动检查，暂无新增",
   "items": [
     {
       "platform": "Meta",
@@ -239,5 +239,5 @@
       "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
     }
   ],
-  "lastCheckedAt": "2026-09-22 15:37"
+  "lastCheckedAt": "2026-09-23 15:38"
 }
