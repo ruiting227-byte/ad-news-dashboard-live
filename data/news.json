@@ -1,9 +1,35 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 2 条",
   "items": [
+    {
+      "platform": "Meta",
+      "date": "2026-09-24",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "SPF | Enhanced Information Sharing Between Meta And The Singapore Police Force Results In Action Against Nearly 3 . 8 Mi",
+      "titleEn": "SPF | Enhanced Information Sharing Between Meta And The Singapore Police Force Results In Action Against Nearly 3 . 8 Mi",
+      "sourceLabel": "police.gov.sg",
+      "sourceUrl": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260923_enhanced_information_sharing_between_meta_and_the_singapore_police_force",
+      "titleZh": "Meta AI 与自动化广告动态：SPF | Enhanced Information Sharing Between Meta And The Singapore Police",
+      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-09-24",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Meta new wearables bring an AI agent , cameras and fresh privacy concerns",
+      "titleEn": "Meta new wearables bring an AI agent , cameras and fresh privacy concerns",
+      "sourceLabel": "latimes.com",
+      "sourceUrl": "https://www.latimes.com/business/story/2026-09-23/metas-new-wearables-bring-ai-agent-cameras-fresh-privacy-concerns",
+      "titleZh": "Meta AI 与自动化广告动态：Meta new wearables bring an AI agent , cameras and fresh privacy concern",
+      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
+      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
+    },
     {
       "platform": "Meta",
       "date": "2026-09-22",
@@ -211,33 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：Beauty is winning at creator commerce . So what everyone else missing ?",
       "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
       "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-08-03",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Kroger Precision Marketing unifies retail data , loyalty , and media to drive brand growth",
-      "titleEn": "Kroger Precision Marketing unifies retail data , loyalty , and media to drive brand growth",
-      "sourceLabel": "emarketer.com",
-      "sourceUrl": "https://www.emarketer.com/content/kroger-precision-marketing-unifies-retail-data--loyalty--media-drive-brand-growth",
-      "titleZh": "TikTok 电商/零售动态：Kroger Precision Marketing unifies retail data , loyalty , and media to",
-      "summaryEn": "The report covers TikTok's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-07-31",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Who is Ulta Beauty partnering with ? See details",
-      "titleEn": "Who is Ulta Beauty partnering with ? See details",
-      "sourceLabel": "shopping.yahoo.com",
-      "sourceUrl": "https://shopping.yahoo.com/beauty/makeup/articles/ulta-beauty-partnering-see-details-144629399.html",
-      "titleZh": "TikTok AI 与自动化广告动态：Who is Ulta Beauty partnering with ? See details",
-      "summaryEn": "The report covers TikTok's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 TikTok 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
     }
   ],
-  "lastCheckedAt": "2026-09-23 15:38"
+  "lastCheckedAt": "2026-09-24 15:31"
 }
