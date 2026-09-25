@@ -1,9 +1,35 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
   "status": "自动新增 2 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-09-25",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Boots announces important step for shoppers - begins Monday",
+      "titleEn": "Boots announces important step for shoppers - begins Monday",
+      "sourceLabel": "dailypost.co.uk",
+      "sourceUrl": "https://www.dailypost.co.uk/whats-on/shopping/boots-announces-important-step-shoppers-34666160",
+      "titleZh": "TikTok 电商/零售动态：Boots announces important step for shoppers - begins Monday",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "Meta",
+      "date": "2026-09-24",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "Amazon Blocks Meta Muse . It Could Be a Gift for Walmart and Shopify",
+      "titleEn": "Amazon Blocks Meta Muse . It Could Be a Gift for Walmart and Shopify",
+      "sourceLabel": "aol.com",
+      "sourceUrl": "https://www.aol.com/articles/amazon-blocks-metas-muse-could-200501000.html",
+      "titleZh": "Meta 电商/零售动态：Amazon Blocks Meta Muse . It Could Be a Gift for Walmart and Shopify",
+      "summaryEn": "The report covers Meta's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 Meta 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "Meta",
       "date": "2026-09-24",
@@ -211,33 +237,7 @@
       "titleZh": "TikTok 电商/零售动态：TikTok Shop Safety Tips Experts Say You Should Know",
       "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
       "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-08-06",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Google , Meta , Amazon to Gain More Power as AI Controls 70 % of Global Ad Spend by 2028",
-      "titleEn": "Google , Meta , Amazon to Gain More Power as AI Controls 70 % of Global Ad Spend by 2028",
-      "sourceLabel": "infotechlead.com",
-      "sourceUrl": "https://infotechlead.com/artificial-intelligence/google-meta-amazon-to-gain-more-power-as-ai-controls-70-of-global-ad-spend-by-2028-97546",
-      "titleZh": "Meta AI 与自动化广告动态：Google , Meta , Amazon to Gain More Power as AI Controls 70 % of Global",
-      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-08-03",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "Beauty is winning at creator commerce . So what everyone else missing ?",
-      "titleEn": "Beauty is winning at creator commerce . So what everyone else missing ?",
-      "sourceLabel": "marketing-interactive.com",
-      "sourceUrl": "https://www.marketing-interactive.com/beauty-is-winning-at-creator-commerce-so-what-s-everyone-else-missing",
-      "titleZh": "TikTok 电商/零售动态：Beauty is winning at creator commerce . So what everyone else missing ?",
-      "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
-      "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
     }
   ],
-  "lastCheckedAt": "2026-09-24 15:31"
+  "lastCheckedAt": "2026-09-25 15:35"
 }
