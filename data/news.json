@@ -1,9 +1,61 @@
 {
   "title": "竞媒小动态",
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "scope": "过去 12 个月｜TikTok、Meta｜CPG：美妆、零售、食品",
-  "status": "已自动检查，暂无新增",
+  "status": "自动新增 4 条",
   "items": [
+    {
+      "platform": "TikTok",
+      "date": "2026-10-02",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "Thailand E - Commerce : Shopee vs Lazada vs TikTok Shop",
+      "titleEn": "Thailand E - Commerce : Shopee vs Lazada vs TikTok Shop",
+      "sourceLabel": "chiangraitimes.com",
+      "sourceUrl": "https://www.chiangraitimes.com/business/thailand-e-commerce-sites/",
+      "titleZh": "TikTok 电商/零售动态：Thailand E - Commerce : Shopee vs Lazada vs TikTok Shop",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-10-01",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok helps AUNZ brands take their businesses global as overseas ad spend doubles",
+      "titleEn": "TikTok helps AUNZ brands take their businesses global as overseas ad spend doubles",
+      "sourceLabel": "campaignbrief.com",
+      "sourceUrl": "https://campaignbrief.com/tiktok-helps-aunz-brands-take-their-businesses-global-as-overseas-ad-spend-doubles/",
+      "titleZh": "TikTok 营销动态：TikTok helps AUNZ brands take their businesses global as overseas ad spe",
+      "summaryEn": "The report covers recent TikTok activity related to ad formats and marketing plays, focusing on platform products, marketing formats, or monetization progress.",
+      "summaryZh": "报道关注 TikTok 与 广告玩法 相关的最新动态，重点在平台产品、营销方式或商业化进展。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-09-30",
+      "category": "广告玩法",
+      "priority": "normal",
+      "title": "TikTok Shop sees shift from search - led to discovery - led shopping",
+      "titleEn": "TikTok Shop sees shift from search - led to discovery - led shopping",
+      "sourceLabel": "sbr.com.sg",
+      "sourceUrl": "https://sbr.com.sg/event-news/tiktok-shop-sees-shift-search-led-discovery-led-shopping",
+      "titleZh": "TikTok 电商/零售动态：TikTok Shop sees shift from search - led to discovery - led shopping",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
+    {
+      "platform": "TikTok",
+      "date": "2026-09-30",
+      "category": "AI/自动化",
+      "priority": "normal",
+      "title": "How Beauty Retailers Can Convert Shoppers In - store",
+      "titleEn": "How Beauty Retailers Can Convert Shoppers In - store",
+      "sourceLabel": "wwd.com",
+      "sourceUrl": "https://wwd.com/beauty-industry-news/beauty-features/beauty-retail-shopper-journey-sales-1239297284/",
+      "titleZh": "TikTok 电商/零售动态：How Beauty Retailers Can Convert Shoppers In - store",
+      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
+      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
+    },
     {
       "platform": "TikTok",
       "date": "2026-09-30",
@@ -185,59 +237,7 @@
       "titleZh": "TikTok 创作者/内容合作动态：TikTok creators turn K - culture curiosity into real - world spending :",
       "summaryEn": "The report covers TikTok's creator or affiliate marketing activity, focusing on how content is connected to commerce conversion.",
       "summaryZh": "报道关注 TikTok 的创作者或联盟营销动态，重点在内容与商业转化的连接方式。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-08-26",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Montana reaches settlement with Meta over claims Facebook , Instagram harmed minors",
-      "titleEn": "Montana reaches settlement with Meta over claims Facebook , Instagram harmed minors",
-      "sourceLabel": "nbcmontana.com",
-      "sourceUrl": "https://nbcmontana.com/news/local/montana-reaches-settlement-with-meta-over-claims-facebook-instagram-harmed-minors",
-      "titleZh": "Meta AI 与自动化广告动态：Montana reaches settlement with Meta over claims Facebook , Instagram ha",
-      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-08-25",
-      "category": "广告玩法",
-      "priority": "normal",
-      "title": "How to Start a Functional Beverage Brand : Free FMCG Webinar Fast Moving Consumer Goods , Inc . Launches the CPG Brand B",
-      "titleEn": "How to Start a Functional Beverage Brand : Free FMCG Webinar Fast Moving Consumer Goods , Inc . Launches the CPG Brand B",
-      "sourceLabel": "hawaiitelegraph.com",
-      "sourceUrl": "http://www.hawaiitelegraph.com/news/279263905/how-to-start-a-functional-beverage-brand-free-fmcg-webinar-fast-moving-consumer-goods-inc-launches-the-cpg-brand-builder-series",
-      "titleZh": "TikTok 营销动态：How to Start a Functional Beverage Brand : Free FMCG Webinar Fast Moving",
-      "summaryEn": "The report covers platform marketing activity in retail, beauty, or FMCG, focusing on brand building, content distribution, or sales conversion.",
-      "summaryZh": "报道关注零售、美妆或快消领域的平台营销动态，重点在品牌建设、内容分发或销售转化。"
-    },
-    {
-      "platform": "TikTok",
-      "date": "2026-08-20",
-      "category": "AI/自动化",
-      "priority": "high",
-      "title": "Yankee Candle® expands united kingdom retail strategy with TikTok Shop launch powered by THG Commerce",
-      "titleEn": "Yankee Candle® expands united kingdom retail strategy with TikTok Shop launch powered by THG Commerce",
-      "sourceLabel": "retailtimes.co.uk",
-      "sourceUrl": "https://retailtimes.co.uk/yankee-candle-expands-uk-retail-strategy-with-tiktok-shop-launch-powered-by-thg-commerce/",
-      "titleZh": "TikTok 电商/零售动态：Yankee Candle® expands united kingdom retail strategy with TikTok Shop l",
-      "summaryEn": "The report covers TikTok's shopping or social commerce activity, focusing on product discovery, store operations, or transaction flows.",
-      "summaryZh": "报道关注 TikTok 的购物或社交电商动态，重点在商品发现、店铺运营或交易承接。"
-    },
-    {
-      "platform": "Meta",
-      "date": "2026-08-19",
-      "category": "AI/自动化",
-      "priority": "normal",
-      "title": "Meta hid the truth about harms to children , California says as trial opens – Macomb Daily",
-      "titleEn": "Meta hid the truth about harms to children , California says as trial opens – Macomb Daily",
-      "sourceLabel": "macombdaily.com",
-      "sourceUrl": "https://www.macombdaily.com/2026/08/19/meta-hid-the-truth-about-harms-to-children-california-says-as-oakland-trial-opens/",
-      "titleZh": "Meta AI 与自动化广告动态：Meta hid the truth about harms to children , California says as trial op",
-      "summaryEn": "The report covers Meta's AI or automation activity, focusing on creative generation, media efficiency, or product display capabilities.",
-      "summaryZh": "报道关注 Meta 的 AI 或自动化营销动态，重点在创意生成、投放效率或商品展示能力。"
     }
   ],
-  "lastCheckedAt": "2026-10-06 16:51"
+  "lastCheckedAt": "2026-10-07 16:30"
 }
